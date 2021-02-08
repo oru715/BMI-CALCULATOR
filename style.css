@@ -27,7 +27,7 @@ h2{
 }
 .text{
     text-align: left;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 #h #w{
     color: black;
@@ -38,12 +38,12 @@ h2{
     border: none;
     background: none;
     border-bottom: 1px solid white;
-    width: 200px;
+    width: 500px;
 }
 #h:focus, #w:focus{
     border-bottom: 2px solid white;
     width: 300px;
-    transition: 0.5s;
+    
 }
 #result{
     color: black;
